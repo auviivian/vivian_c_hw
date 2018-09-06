@@ -7,6 +7,7 @@ int main()
 
 	printf("Please input 10 mumbers:\n");
 	printf("請輸入第一個整數:");
+
     scanf("%d",&A[0]);
     printf("請輸入第二個整數:");
     scanf("%d",&A[1]);
